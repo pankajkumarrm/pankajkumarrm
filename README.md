@@ -2,5 +2,4 @@
 - I’m interested in C++ development and data analysis. 
 - I’m currently pursuing my B.E in ECE from Panjab University SSGRC, Hoshiarpur.
 - I have comleted training internship on Data Analysis with Stige.tech
-- 📫 How to reach me :
 - E-mail-Pankajkumar76611@gmail.com
